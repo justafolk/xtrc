@@ -444,3 +444,7 @@ mypy xtrc
 ## License
 
 MIT
+
+## Counter
+
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=justafolk.xtrc)
