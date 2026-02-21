@@ -3,7 +3,9 @@
 `xtrc` is a local, editor-agnostic AI code navigation system.
 It indexes your repository with tree-sitter + embeddings, stores vectors in local Qdrant, and returns file+line jump targets from natural-language queries.
 
-![Screenshare-2026-02-211_52_31PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/47df201a-8fc2-42d3-b14e-66a1dc99088d)
+![Screenshare - 2026-02-21 1_52_31 PM (3)](https://github.com/user-attachments/assets/f7f1da3a-30c2-4391-8cc5-2ba0024e75eb)
+
+
 ## Key Capabilities
 - Local daemon with FastAPI APIs: `/index`, `/query`, `/status`
 - Tree-sitter parsing for Python, JavaScript, TypeScript, TSX
